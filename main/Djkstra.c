@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "AdjacencyMatrix.c"
+#include "../libraries/AdjacencyMatrix.h"
 
 
 int main(int argc, char** argv) {
